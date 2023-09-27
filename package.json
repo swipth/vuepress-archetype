@@ -1,0 +1,21 @@
+{
+  "name": "{{projectName}}",
+  "version": "{{version}}",
+  "author": "{{author}}",
+  "description": "{{description}}",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs --temp .temp",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.8.2",
+    "@vuepress/plugin-medium-zoom": "^1.8.2",
+    "@vuepress/plugin-search": "^1.8.2",
+    "vuepress": "^1.8.2",
+    "vuepress-plugin-fulltext-search": "^2.2.0"
+  }
+}
