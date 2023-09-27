@@ -1,3 +1,2 @@
-## 采购平台操作手册 pp_docs_PharmaBlock
+## 文档模板
 
-### PharmaBlock Purchasing Platform Docs
